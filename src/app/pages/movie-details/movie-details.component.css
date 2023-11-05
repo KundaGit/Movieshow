@@ -1,0 +1,26 @@
+img{
+    width: 100%;
+    height: auto;
+}
+p{
+    color: white;
+}
+h1{
+    color: #ffffff;
+    font-weight:bold ;
+}
+a{
+    background-color: #E50914;
+    color: #ffffff;
+    text-decoration: none;
+    /* text-align: none; */
+}
+a:hover{
+    background-color: #E50914;
+    color:#ffffff;
+    border: 2px solid #ffffff;
+}
+.cast{
+color:rgb(220, 211, 46);
+font-weight:bold ;
+}
